@@ -11,3 +11,6 @@ Design responsivo
 Navegação simples e intuitiva
 
 Seção de projetos, habilidades e sobre mim
+
+
+![Imagem com estrutura de links pessoais](./assets/assets/painel%20web.png)
